@@ -1,0 +1,32 @@
+header{
+background-color:#FAE3E3;
+	padding:15px;
+	padding:70px;
+	font-family: Copperplate;
+	text-align: center;
+	font-size: 40px;
+	
+}
+nav{
+	color:#12776F ;
+}
+section{
+margin-left: 115px;
+margin-right: 50px;
+max-width: 68%;
+font-family: "Arial";
+text-align: center;
+color:#6C5878;
+
+padding: 100px;
+
+}
+footer{
+	clear: both;
+	background-color: #B7B7B7;
+	padding:50px;
+	text-align: center;
+	font-family: Century Gothic;
+	color:#137083;
+
+}
